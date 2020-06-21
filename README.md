@@ -1,4 +1,4 @@
-Homework-12: Employee Tracker  
+Employee Tracker  
 
 This is an interactive database designed for non-developers to view and interact with information stored in a database. This content management system is built to manage a company's employees using node, inquirer, and MySQL.  
 
@@ -14,8 +14,5 @@ Express
 MySQL  
 
 Authors:  
-Ilana Shaffer  
-
-Acknowledgments:  
-University of Denver - Bootcamp Spot Assignment
+Ilana Shaffer
 
